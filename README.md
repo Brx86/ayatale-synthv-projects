@@ -11,3 +11,6 @@ The shared project files you can get are licensed under CC-BY-NC-SA 4.0.
 The purpose of sharing the project is to HELP you understand what I could do with Synthesizer V and help you learning to use the software.
 Therefore whether the project I've created are permitted for monetizing or not (by software EULA), you may not monetize using any of my project files shared to you.
 Thank you.
+
+# Inspired by RigoLigo
+https://github.com/RigoLigoRLC/rigo-synthv-projects
