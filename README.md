@@ -1,4 +1,4 @@
-# ayatale-synthv-projects
+# Ayatale-synthv-projects
 This is a place where I share my Synthesizer V projects. I'm not a professional musician and I know nothing about music theories.
 I play with Synthesizer V mostly for fun, and sharing the projects to help anyone who could be in help.
 These files can also serve as example projects that you can start Synthesizer V with. Most of them (for now) would be using only Lite voice databases thus increasing the versatility.
